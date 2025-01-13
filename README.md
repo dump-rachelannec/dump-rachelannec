@@ -1,4 +1,4 @@
-# dump account for @rachelannec 🐱‍🏍
+dump account for @rachelannec 🐱‍🏍
 
 <!--- 
 - 👋 Hi, I’m @dump-rachelannec
